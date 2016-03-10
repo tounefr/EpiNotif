@@ -1,5 +1,5 @@
-# EpiNotif
-Script Python qui récupère les notifications sur l'intranet d'Epitech pour les afficher le bureau grâce au programme 'notify-send'  
+# EpiNotif  
+Petit script Python qui récupère les notifications sur l'intranet d'Epitech pour les afficher sur le bureau grâce au programme 'notify-send'  
 
 # Dépendances  
 `pip install requests`  
