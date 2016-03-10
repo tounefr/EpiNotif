@@ -4,5 +4,8 @@ Petit script Python qui récupère les notifications sur l'intranet d'Epitech po
 # Dépendances  
 `pip install requests`  
 
+# Aperçu sur Cinnamon
+![preview](preview.png "preview")
+
 # Usage  
 `./epinotify.py --username "" --password "" --check-interval 60`  
